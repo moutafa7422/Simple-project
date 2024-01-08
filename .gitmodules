@@ -1,0 +1,3 @@
+[submodule "Simple-project"]
+	path = Simple-project
+	url = https://github.com/moutafa7422/Simple-project.git
